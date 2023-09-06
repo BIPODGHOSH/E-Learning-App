@@ -13,7 +13,7 @@ function Nav() {
             <Link to="/">
               <img className={style.logo} src={logo} alt="logo" />
             </Link>
-            <h4>Codir Zone</h4>
+            <h4>Coder Zones</h4>
           </div>
           <div className={style.nav_details}>
             <button>
