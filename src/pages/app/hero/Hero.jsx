@@ -10,7 +10,7 @@ function Hero() {
       </section>
       <section className={style.content}>
         <h4>Are you ready to ?</h4>
-        <h1>Be a part of Coder Zone</h1>
+        <h1>Be a part of Coder Zones</h1>
         <p>
           See how experienced developers solve problems in real-time. Watching
           scripted tutorials is great, but understanding how developers think is
