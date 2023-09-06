@@ -1,0 +1,27 @@
+/* Base styles */
+.chapterContainer {
+  padding: 1rem;
+}
+
+.para {
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+  text-align: justify;
+}
+
+.videos {
+  display: flex;
+  justify-content: center; /* Center the video */
+  margin-top: 1.5rem;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+  .chapterContainer {
+    padding: 0.5rem;
+  }
+
+  .para {
+    font-size: 1.1rem;
+  }
+}
